@@ -1,7 +1,7 @@
 ![logo](https://github.com/zain4cs/zain4cs/blob/main/Grey%20and%20Black%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Zain Ali</h1>
 <h3 align="center">ML & Data Preprocessing Expert | Data Visualization</h3>
-<img align="right" alt="coding" width ="400" scr= "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms, Feature Engineering, and Time Series Analysis.**
 

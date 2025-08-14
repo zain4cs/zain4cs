@@ -1,6 +1,6 @@
 ![Banner](https://github.com/zain4cs/zain4cs/blob/main/Grey%20and%20Black%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 
-<h1 align="center">Hi, I'm Zain Ali 👋</h1>
+<h1 align="center">Hi, I'm Zain Ali</h1>
 <h3 align="center">Machine Learning & Data Preprocessing Specialist</h3>
 
 ---
@@ -11,7 +11,7 @@ Skilled in data cleaning, preprocessing, visualization, and building predictive 
 
 - 🌱 Currently learning: **Advanced ML Algorithms, Feature Engineering, and Time Series Analysis**  
 - 📊 Interested in: **Data-driven decision making, Model optimization, and Explainable AI**  
-- 📫 Reach me at: **zain@example.com**  
+- 📫 Reach me at: **zainzulfiqar.cs@gmail.com**  
 
 ---
 
@@ -58,5 +58,3 @@ Forecasts monthly sales using ARIMA and Prophet models.
 ---
 
 > “Data is the new oil — and I refine it into insights that drive decisions.”
-
-

@@ -1,6 +1,7 @@
 ![Banner](https://github.com/zain4cs/zain4cs/blob/main/Grey%20and%20Black%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
-🚀 About Me
 
+
+🚀 About Me:
 I'm a Data Scientist passionate about transforming raw data into meaningful insights.
 Skilled in data cleaning, preprocessing, visualization, and building predictive models.
 
@@ -33,5 +34,7 @@ A machine learning project to predict housing prices in Pakistan using real esta
 
 🛠 Skills & Tools
 <p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a> <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" width="40" height="40"/></a> </p>
+
 📫 Connect with Me
+
 <p> <a href="https://linkedin.com/in/zain-ali" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a> <a href="https://instagram.com/zainzulfiqar01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a> </p>

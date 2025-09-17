@@ -1,10 +1,10 @@
+![Banner](https://github.com/zain4cs/zain4cs/blob/main/Grey%20and%20Black%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 🚀 About Me
 
-I am a Data Scientist passionate about transforming raw data into meaningful insights.
+I'm a Data Scientist passionate about transforming raw data into meaningful insights.
 Skilled in data cleaning, preprocessing, visualization, and building predictive models.
 
 🌱 Currently learning: Advanced ML Algorithms, Feature Engineering, and Time Series Analysis
-
 📊 Interested in: Data-driven decision making, Model optimization, and Explainable AI
 
 📫 Reach me at: zainzulfiqar.cs@gmail.com
